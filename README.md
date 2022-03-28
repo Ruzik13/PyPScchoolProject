@@ -1,1 +1,3 @@
-# PyPScchoolProject
+# PySchoolProject
+**Хз чё здесь можно напизать**
+*Привет мир!*
